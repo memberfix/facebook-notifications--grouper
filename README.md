@@ -2,7 +2,9 @@
 
 A Chrome extension that organizes Facebook notifications by their originating page or group, making it easier to batch-process your social media interactions.
 
-![Extension Screenshot](screenshot.png)
+![Extension Screenshot](https://memberfix.rocks/wp-content/uploads/2025/03/notifications-panel.png)
+
+![Extension Screenshot](https://memberfix.rocks/wp-content/uploads/2025/03/all-notifications-screen.png)
 
 ## Features
 
